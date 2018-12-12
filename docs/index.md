@@ -26,7 +26,7 @@ Each region has different anatomival specializations to allow for differential f
  3) lumbar curve
  4) sacral curve
  
- ![ ](/hpc/mosa004/Sparc/Spine/docs/sparc.spine.notes/docs/figures/vertebralcolumn.jpg "The Vertebral Column")
+ ![ ](./figures/vertebralcolumn.jpg "The Vertebral Column")
  
 
 #
