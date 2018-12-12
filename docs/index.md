@@ -34,9 +34,6 @@ Each region has different anatomival specializations to allow for differential f
 #
 Generally, vertebrae seem to have a common structural plan - see figure below. Anteriorly, each vertebra has a relatively thick, spherical to oval *body*, from which a *vertebral arch* extends posteriorly. Various processes either for muscle attachement or for rib rticulation extend from the vertebral arch. Paird *articular processes* on both the superior and inferior surfaces project from the vertebral arch. These points represent the articulation between adjacent vertebrae.
 
-![ ](/hpc/mosa004/Sparc/Spine/docs/sparc.spine.notes/docs/figures/vertebralanatomy_a.jpg  "Vertebral Anatomy a")
-
-![ ](/hpc/mosa004/Sparc/Spine/docs/sparc.spine.notes/docs/figures/vertebralanatomy_b.jpg  "Vertebral Anatomy b")
-
-
-![ ](/hpc/mosa004/Sparc/Spine/docs/sparc.spine.notes/docs/figures/vertebralanatomy_c.jpg "Vertebral Anatomy c" )
+![ ](./figures/vertebralanatomy_a.jpg  "Vertebral Anatomy a")
+![ ](./figures/vertebralanatomy_b.jpg  "Vertebral Anatomy b")
+![ ](./figures/vertebralanatomy_c.jpg "Vertebral Anatomy c" )
