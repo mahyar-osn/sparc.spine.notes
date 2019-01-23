@@ -26,8 +26,8 @@ Each region has different anatomival specializations to allow for differential f
  3) lumbar curve
  4) sacral curve
  
- ![ ](./figures/vertebralcolumn.jpg "The Vertebral Column")
- 
+ ![](./figures/vertebralcolumn.jpg "The Vertebral Column")
+ <img src="./figures/vertebralcolumn.jpg"  width="120" height="120">
 
 #
 ### Vertebral Anatomy
